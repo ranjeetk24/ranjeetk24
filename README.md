@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjeetk24
-- 👀 I’m interested in travel related websites...(Hotel booking, Activities Booking..)
+- 👀 I’m interested in building travel related websites...(Hotel booking, Activities Booking..)
 - 🌱 I’m currently exploring generative AI, react, microservices (AI in Travel Domain)
 - 🌱 I have 12+ years of experience in designing and developing enterprise level web applications
 - 🌱 Senior Developer & Architect at SAP, Senior Lead Software Engineer at Collins Aerospace, Technical Specialist at Robert Bosch & Software Engineer at Thales
