@@ -2,7 +2,7 @@
 - 👀 I’m interested in building travel domain startup...(Hotel booking, Activities Booking, AI Trip Planner..)
 - 🌱 I’m currently exploring generative AI, react, microservices (AI in Travel Domain)
 - 🌱 I have 12+ years of experience in designing and developing enterprise level web applications
-- 🌱 Senior Developer & Architect at SAP, Senior Lead Software Engineer at Collins Aerospace, Technical Specialist at Robert Bosch & Software Engineer at Thales
+- 🌱 Founder (Travel Stealth Startup), Senior Developer & Architect at SAP, Senior Lead Software Engineer at Collins Aerospace, Technical Specialist at Robert Bosch & Software Engineer at Thales
 - 📫 How to reach me ranjeetk24@yahoo.co.in...
 
 <!---
